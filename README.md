@@ -17,4 +17,4 @@ A web-based portal for managing university-related complaints and solutions.
 
 ## Contact
 Email: sekharmungara@gmail.com
-LinkedIn: linkedin.com/in/sekhar-mungara-38207b2a1
+LinkedIn: www.linkedin.com/in/sekhar-mungara-38207b2a1
