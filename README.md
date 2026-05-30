@@ -14,6 +14,8 @@ Computer Science student interested in Java, Spring Boot, and Web Development.
 ## Projects
 ### University Problem Solution Management Portal
 A web-based portal for managing university-related complaints and solutions.
+### Technologies used
+HTML | CSS | Javascript | Bootstrap | JAVA
 
 ## Contact
 Email: sekharmungara@gmail.com
